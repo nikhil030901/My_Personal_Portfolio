@@ -17,13 +17,13 @@ To install, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone 
+sudo git clone git@github.com:nikhil030901/Personal-Portfolio-.git
 ```
 
 Windows:
 
 ```bash
-git clone 
+git clone git@github.com:nikhil030901/Personal-Portfolio-.git
 ```
 
 ## Contact
